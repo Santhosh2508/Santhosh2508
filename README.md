@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Santhosh.p2508@outlook.com**
 
-- ⚡ Fun fact **Beginner**
+- ⚡ Fun fact **I'm curently studying B.E Computer Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
