@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh P</h1>
 <h3 align="center">A passionate Learner towords Programming</h3>
 
-- 🌱 I’m currently learning **Java + DSA **
+- 🌱 I’m currently learning **Java + DSA**
 
 - 📫 How to reach me **Santhosh.p2508@outlook.com**
 
