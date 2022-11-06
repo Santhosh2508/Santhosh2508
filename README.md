@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Learner towords Programming</h3>
 
 
-- 🌱 I’m currently learning **Java + DSA**
+- 🌱 I’m currently learning **PYTHON + DSA**
 
 - 📫 How to reach me **Santhosh.p2508@outlook.com**
 
