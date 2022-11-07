@@ -13,6 +13,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh2508&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="santhosh2508" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh2508&show_icons=true&locale=en" alt="santhosh2508" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh2508&show_icons=true&locale=en&theme=tokyonight" alt="santhosh2508" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh2508&theme=tokyonight" alt="santhosh2508" /></p>
