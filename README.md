@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh P</h1>
 <h3 align="center">A passionate Learner towords Programming</h3>
 
-- 🌱 I’m currently learning **"Python + DSA"**
+- 🌱 I’m currently learning **"Java + DSA"**
 
 - ⚡ Fun fact **I'm curently studying B.E Computer Science**
 
