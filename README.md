@@ -70,11 +70,13 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/santhosh2508?theme=dark&font=Roboto&ext=contest)
 
 <hr>
+<h3 align="left"> Github Stats:</h3>
+
 <p align="center"> 
-     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=santhosh2508&show_icons=true&locale=en&theme=tokyonight" alt="santhosh2508" />
-    </p>
+     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh2508&show_icons=true&locale=en&theme=tokyonight" alt="santhosh2508" />
+    </p>&nbsp;
     <p>
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh2508&theme=tokyonight" alt="santhosh2508" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh2508&theme=tokyonight" alt="santhosh2508" />
     </p>
    
 </p>
